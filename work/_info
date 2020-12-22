@@ -1,0 +1,852 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1
+vaddsub_4bit
+Z0 !s110 1521418700
+!i10b 1
+!s100 1emEB:Vn[=Kzaekh?:ND83
+IIb5[1;dG9H=AUFAe;CZQF1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project
+w1518489771
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/addsub_4bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/addsub_4bit.v
+L0 1
+Z3 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1521418700.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/addsub_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/addsub_4bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vALU
+Z7 !s110 1524934843
+!i10b 1
+!s100 Ik3Zdn[l_Wo4S4>oJ<Fik1
+IOO4=]ORL_S;YkeFK9A4Ff0
+R1
+R2
+w1521418388
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ALU.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1524934843.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vArbitrationToMemory
+Z9 !s110 1524934846
+!i10b 1
+!s100 BaMDU[BT<Dl?0C27EV2Oj0
+IK1>HIb>5K8kJWgT:HX7^93
+R1
+R2
+w1524878076
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/arbitration.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/arbitration.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1524934846.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/arbitration.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/arbitration.v|
+!i113 1
+R5
+R6
+n@arbitration@to@memory
+vBitCell
+Z11 !s110 1524934845
+!i10b 1
+!s100 ;9fK6P]3zZ=aCKR1z@j=m3
+IT_80[5Fc>jJlVG>KM9JZ_2
+R1
+R2
+w1523077928
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/BitCell.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/BitCell.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1524934845.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/BitCell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/BitCell.v|
+!i113 1
+R5
+R6
+n@bit@cell
+vBlock
+R11
+!i10b 1
+!s100 >=A9@Vi>n<]`WS86Na5dR1
+IRM;`kBba=0^MomIM3;VQ?2
+R1
+R2
+Z13 w1523853197
+Z14 8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/DataArray.v
+Z15 FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/DataArray.v
+L0 11
+R3
+r1
+!s85 0
+31
+R12
+Z16 !s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/DataArray.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/DataArray.v|
+!i113 1
+R5
+R6
+n@block
+vCache
+!s110 1524944283
+!i10b 1
+!s100 OWJVTSFePghCL@fAVcToM2
+IH>H8AP1U?27d4mZjH[3L_2
+R1
+R2
+w1524944263
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1524944283.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache.v|
+!i113 1
+R5
+R6
+n@cache
+vcache_fill_FSM
+R9
+!i10b 1
+!s100 WIeIlGAKbU_<0i7;i`GKX3
+IdTX5?nPJoFfXomBdi]B9I3
+R1
+R2
+w1524883510
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache_fill_FSM.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache_fill_FSM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache_fill_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cache_fill_FSM.v|
+!i113 1
+R5
+R6
+ncache_fill_@f@s@m
+vCLA_16bit
+Z18 !s110 1524934844
+!i10b 1
+!s100 _cIK[:JaZYhMEUNJ<nRi`1
+IEJ_4ZWokYm?h`h1Rz466U2
+R1
+R2
+w1522816382
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_16bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_16bit.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z19 !s108 1524934844.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_16bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_16bit.v|
+!i113 1
+R5
+R6
+n@c@l@a_16bit
+vCLA_1bit
+R7
+!i10b 1
+!s100 Y[af9fTkY@kklfblnZRL42
+IT=L=fIH;jf[<Flc>39Pl]2
+R1
+R2
+w1521411649
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_1bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_1bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_1bit.v|
+!i113 1
+R5
+R6
+n@c@l@a_1bit
+vCLA_4bit
+R7
+!i10b 1
+!s100 1XIoH`F8NYzn[dREUB41A2
+IHcD9BH4H]>]2nEcji]B2>2
+R1
+R2
+w1521411173
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_4bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CLA_4bit.v|
+!i113 1
+R5
+R6
+n@c@l@a_4bit
+vcontrol
+!s110 1524934842
+!i10b 1
+!s100 lkaCQe?GzWjO^an27Q_O33
+I:a0ilZ1:010UYzVaIP>Gb3
+R1
+R2
+w1523083987
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/control.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1524934841.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/control.v|
+!i113 1
+R5
+R6
+vcpu
+!s110 1524942748
+!i10b 1
+!s100 h4^lMRMIE>T>HnTe6ADK20
+I0oCHheMm[Dzn]ndH<Xf4@2
+R1
+R2
+w1524942741
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cpu.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cpu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1524942748.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/cpu.v|
+!i113 1
+R5
+R6
+vcpu_ptb
+!s110 1524944309
+!i10b 1
+!s100 QIE_@;2:6naNDSIEl@ibQ1
+IfNgOZo@Ce0W[kHC43KiG`2
+R1
+R2
+w1524944305
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase3.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1524944309.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase3.v|
+!i113 1
+R5
+R6
+vcpu_tb
+R18
+!i10b 1
+!s100 ^z6ACXz1I6<eP74]5i?[T1
+Ik`kJA>4XA?@BCCSk@eV;I0
+R1
+R2
+w1521393496
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase1.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/S18_cpu_testbench_phase1.v|
+!i113 1
+R5
+R6
+vCSA_1bit
+R7
+!i10b 1
+!s100 Kcg<VaD=az:J=iN[zm?IM3
+I]4QURXRE9e3SVM<cUhf[>3
+R1
+R2
+w1521356933
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CSA_1bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CSA_1bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CSA_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/CSA_1bit.v|
+!i113 1
+R5
+R6
+n@c@s@a_1bit
+vDataArray
+R11
+!i10b 1
+!s100 N?]IT^VD;Y?biHRif>zHe0
+IUa4az]Rz1gK_OOP9lOkVA1
+R1
+R2
+R13
+R14
+R15
+L0 6
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!i113 1
+R5
+R6
+n@data@array
+vDCell
+R11
+!i10b 1
+!s100 WkTPVMNC4]E[>Jjfm0[?:0
+IccXQ_ThOFP9=c8F8lOY430
+R1
+R2
+R13
+R14
+R15
+Z20 L0 24
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!i113 1
+R5
+R6
+n@d@cell
+vdecoder3to8
+R9
+!i10b 1
+!s100 ShB1IFZN1iS<07O7O`7fo1
+IWn5zGY>VTRY]kgDANfz_m0
+R1
+R2
+w1524802315
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/3to8Decoder.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/3to8Decoder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/3to8Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/3to8Decoder.v|
+!i113 1
+R5
+R6
+vdecoder7to128
+R9
+!i10b 1
+!s100 Q8LM]1kM]2T^CSc@bWg`m0
+IFflzk;@gWN:7j<8nCFLg;2
+R1
+R2
+w1524802357
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/7to128Decoder.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/7to128Decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/7to128Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/7to128Decoder.v|
+!i113 1
+R5
+R6
+vdff
+R9
+!i10b 1
+!s100 PV_CoVVQ]?nI;J@mj=Gn=3
+I:=37U=<d9Tl@<VWDET6`81
+R1
+R2
+w1523640576
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/dff.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/dff.v
+L0 3
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/dff.v|
+!i113 1
+R5
+R6
+vDWord
+R11
+!i10b 1
+!s100 CMU0BU[`5ZIMGMl00XYVG3
+IXbZZRo83UQKUd:@dSP]P91
+R1
+R2
+R13
+R14
+R15
+L0 19
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!i113 1
+R5
+R6
+n@d@word
+vflag_register
+R18
+!i10b 1
+!s100 dF^R;gDmQknCfYCT4d`1f2
+ILY=8`^KVkmAn]2S2AP^5l3
+R1
+R2
+w1521394328
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/flag_register.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/flag_register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/flag_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/flag_register.v|
+!i113 1
+R5
+R6
+vfull_adder_1bit
+R0
+!i10b 1
+!s100 lRnASZ:ETaJ11^eO`Z@Sn3
+IRIW]Gc]^WZYK<aXINLb9B2
+R1
+R2
+w1519179796
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/full_adder_1bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/full_adder_1bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/full_adder_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/full_adder_1bit.v|
+!i113 1
+R5
+R6
+vload_immediate
+R18
+!i10b 1
+!s100 Qf<U`jNfO`:TdLeG5d8GF3
+I3MSE[NS_@0SL7Kca5kkBo0
+R1
+R2
+w1521350627
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/load_immediate.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/load_immediate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/load_immediate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/load_immediate.v|
+!i113 1
+R5
+R6
+vMBlock
+R11
+!i10b 1
+!s100 L4iL:[ZBSjOWR]1NQ;04W3
+IeUcaficMoDcPHg^LTZ@M_2
+R1
+R2
+Z21 w1523667050
+Z22 8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/MetaDataArray.v
+Z23 FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/MetaDataArray.v
+L0 10
+R3
+r1
+!s85 0
+31
+R12
+Z24 !s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/MetaDataArray.v|
+Z25 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/MetaDataArray.v|
+!i113 1
+R5
+R6
+n@m@block
+vMCell
+R11
+!i10b 1
+!s100 nhE=ef3;anUYKjdi>25`f1
+IP[T3Xa3=5S<KkeFGQkie91
+R1
+R2
+R21
+R22
+R23
+L0 14
+R3
+r1
+!s85 0
+31
+R12
+R24
+R25
+!i113 1
+R5
+R6
+n@m@cell
+vmemory1c
+R7
+!i10b 1
+!s100 z?Z580:J9UO?2@dWG^`m53
+I16Z@:Cl_9UT2GFlfO3n0e2
+R1
+R2
+w1520548500
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/memory.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/memory.v
+L0 31
+R3
+r1
+!s85 0
+31
+!s108 1524934842.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/memory.v|
+!i113 1
+R5
+R6
+vmemory4c
+R9
+!i10b 1
+!s100 U?;on`g3D0kE0W?^VQ=Am2
+IS>DTmBK2IagMeOUjo=0X;2
+R1
+R2
+w1523666836
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/multicycle_memory.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/multicycle_memory.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/multicycle_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/multicycle_memory.v|
+!i113 1
+R5
+R6
+vMetaDataArray
+R11
+!i10b 1
+!s100 3UQR43kB3ci=79^b4@L4M3
+InYA4[Wg]bEXA4l8]OGlRg2
+R1
+R2
+R21
+R22
+R23
+L0 6
+R3
+r1
+!s85 0
+31
+R12
+R24
+R25
+!i113 1
+R5
+R6
+n@meta@data@array
+vPC_control
+R18
+!i10b 1
+!s100 Izi:NTiP>L<2KhcOlT94<1
+I<4NFSH=MX6dXBk6cg=9<A0
+R1
+R2
+w1522096241
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PC_control.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PC_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PC_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PC_control.v|
+!i113 1
+R5
+R6
+n@p@c_control
+vPSA_16bit
+!s110 1521418699
+!i10b 1
+!s100 >Fe9IfXDaKfP]h^[]ilL_0
+I2E4^ONgB<8OSk_fhPfn8F0
+R1
+R2
+w1519181862
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PSA_16bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PSA_16bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1521418699.000000
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PSA_16bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/PSA_16bit.v|
+!i113 1
+R5
+R6
+n@p@s@a_16bit
+vReadDecoder_4_16
+R11
+!i10b 1
+!s100 [ET[9M4W[nML405CUhFcj3
+ISUlhBSY0T;AGW9<FbF^;X1
+R1
+R2
+w1519363155
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ReadDecoder_4_16.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ReadDecoder_4_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ReadDecoder_4_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/ReadDecoder_4_16.v|
+!i113 1
+R5
+R6
+n@read@decoder_4_16
+vRegister
+R7
+!i10b 1
+!s100 IRUGI?bccWHOVR?fGY38^1
+IC[_hj6f@h6S^e2iZ1`?VV0
+R1
+R2
+w1519852019
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Register.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Register.v|
+!i113 1
+R5
+R6
+n@register
+vRegisterFile
+R11
+!i10b 1
+!s100 jg8]h:[h]O]=0WXLV;2C50
+I:]iY]ECDhEXE<dUfnaZYN2
+R1
+R2
+w1523078739
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/RegisterFile.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/RegisterFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/RegisterFile.v|
+!i113 1
+R5
+R6
+n@register@file
+vsaturation_4bit
+R18
+!i10b 1
+!s100 g@Imdd7QWP2m5k>aaZjX`0
+InbJImXofSWbLX=A?k=E<D3
+R1
+R2
+w1521352157
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/saturation_4bit.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/saturation_4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/saturation_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/saturation_4bit.v|
+!i113 1
+R5
+R6
+vShifter
+R18
+!i10b 1
+!s100 U;DhOlmnz=]eIB[zIdICB3
+IIXS0SjM63eTQ0jI1kEoPc0
+R1
+R2
+w1521352895
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Shifter.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/Shifter.v|
+!i113 1
+R5
+R6
+n@shifter
+vsign_extend_4to16
+R18
+!i10b 1
+!s100 L`[^>YXTK3a?5L1D>lHgI3
+I@QQA=i4I2HVZIYVEFDJ^D0
+R1
+R2
+w1521353283
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/sign_extend_4to16.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/sign_extend_4to16.v
+L0 2
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/sign_extend_4to16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/sign_extend_4to16.v|
+!i113 1
+R5
+R6
+vtri_buf
+R11
+!i10b 1
+!s100 [2MA3zI[:83RllKoW8;GU1
+I]hkF1fEIoF8]_?OQJ7[6T2
+R1
+R2
+w1519846217
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/tri_buf.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/tri_buf.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/tri_buf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/tri_buf.v|
+!i113 1
+R5
+R6
+vWriteDecoder_4_16
+R11
+!i10b 1
+!s100 7G7LS]lkX>n3A_R36_Ya?3
+IN<ONk4I:EC>K_TUmOzYT53
+R1
+R2
+w1519847629
+8C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/WriteDecoder_4_16.v
+FC:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/WriteDecoder_4_16.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/WriteDecoder_4_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yblur/OneDrive/ECE_552_Architecture/Project1/Computer_Architecture_Project/WriteDecoder_4_16.v|
+!i113 1
+R5
+R6
+n@write@decoder_4_16
